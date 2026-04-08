@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pratheesa 👋
 
-<!--
-**Pratheesa2003/Pratheesa2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems Engineering Undergraduate  
 
-Here are some ideas to get you started:
+💡 Interested in:
+- Networking  
+- Cloud Computing  
+- DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently Learning:
+- Linux  
+- Git & GitHub  
+- Networking Fundamentals  
+- Docker (Basics)  
+
+🚀 Projects:
+- 🔧 Virtual Network Lab (Coming soon)
+
+📫 Contact:
+- Email: your-email-here
