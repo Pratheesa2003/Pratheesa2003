@@ -5,7 +5,8 @@
 💡 Interested in:
 - Networking  
 - Cloud Computing  
-- DevOps  
+- DevOps
+- Web Development   
 
 🛠️ Currently Learning:
 - Linux  
@@ -14,7 +15,8 @@
 - Docker (Basics)  
 
 🚀 Projects:
-- 🔧 Virtual Network Lab (Coming soon)
+- 🔧 Virtual Network Lab
 
 📫 Contact:
-- Email: your-email-here
+- Pratheesa2@gmail.com
+
